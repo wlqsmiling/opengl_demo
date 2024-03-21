@@ -5,3 +5,5 @@
  * @FilePath: \opengl_demo\README.md
 -->
 * g++ .\src\hello.cpp .\src\glad.c -I include -L lib -lglfw3 -lgdi32
+
+- what vao is:
